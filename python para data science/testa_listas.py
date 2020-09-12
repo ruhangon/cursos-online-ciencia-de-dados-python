@@ -1,4 +1,4 @@
-jogos = ['uncharted', 'the last of us', 'GTA', 'FIFA']
+jogos = ['uncharted', 'the last of us', 'gta', 'fifa']
 print('tamanho da lista jogos: {}'.format(len(jogos)))
 print(('overwatch' in jogos))
 # in retorna true se esse conteúdo está na lista
@@ -33,4 +33,11 @@ colecao_de_teste.append('forza')
 
 print(len(nova_colecao))
 print(len(colecao_de_teste))
+
+print('listagem de todos os itens da nova coleção')
+for item in nova_colecao:
+    print(item)
+
+print([item for item in nova_colecao])
+# usa list comprehensions para mostrar conteúdo de dentro da lista
 
