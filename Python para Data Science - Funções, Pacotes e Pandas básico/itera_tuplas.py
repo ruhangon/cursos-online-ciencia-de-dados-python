@@ -18,3 +18,5 @@ videogames=('playstation', 'nintendo', 'nintendo', 'nintendo')
 for jogo, videogame in zip(nomes_de_jogos, videogames):
     print(jogo, videogame)
 
+
+

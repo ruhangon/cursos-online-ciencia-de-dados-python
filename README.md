@@ -6,3 +6,5 @@ Usado para estudos de ciência de dados com a linguagem python
 
 - Python para Data Science: Introdução à linguagem e Numpy
 
+- Python para Data Science: Funções, Pacotes e Pandas básico
+
